@@ -15,3 +15,6 @@ https://pranishsonone.github.io/Infosys-Equninox-Project/
 
 #5 by using Html CSS and CSS grid grid property
 https://pranishsonone.github.io/Neososmile-project/
+
+#6Create BY using the CSS and HTML
+https://pranishsonone.github.io/Infosys-knowledege-institute-/
